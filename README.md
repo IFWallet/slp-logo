@@ -5,7 +5,7 @@ Directory of SLP token &amp; Dapp logo
 ## Requirements
 - format: `png`
 - name of the file in lowercase fromat: `token_id.png`. Ex: `fa6c74c52450fc164e17402a46645ce494a8a8e93b1383fa27460086931ef59f.png`
-- size: minimum `256px by 256px`
+- size: minimum `128px by 128px`, preferably `256px by 256px`
 - background: preferably transparant
 
 ## How To Add
